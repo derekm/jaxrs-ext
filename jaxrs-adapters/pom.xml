@@ -10,6 +10,7 @@
   <name>JAX-RS adapters</name>
   <modules>
   	<module>jaxrs-jsonb-uuid-adapter</module>
+  	<module>jaxrs-jsonb-instant-adapter</module>
   </modules>
   <dependencyManagement>
   	<dependencies>

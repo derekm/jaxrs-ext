@@ -8,6 +8,7 @@
   <modules>
   	<module>jaxrs-contexts</module>
   	<module>jaxrs-adapters</module>
+  	<module>jaxrs-filters</module>
   </modules>
   <properties>
   	<maven.compiler.source>1.8</maven.compiler.source>
